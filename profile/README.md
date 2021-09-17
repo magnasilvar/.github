@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 
-![Alan engineer](./alan-eng-rounded.png)
+![Alan engineer](./profile/alan-eng-rounded.png)
 
 We are Alan, we help all people have a personalised and accessible healthcare experience.
 

@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -11,7 +9,14 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 
-![Alan engineer](./profile/alan-eng-rounded.png)
+<img
+  alt="Alan engineer"
+  src="https://github.com/alan-eu/.github/raw/acceptance/profile/alan-eng-rounded.png"
+  width="200"
+  align="left"
+/>
+
+## Hi there 👋
 
 We are Alan, we help all people have a personalised and accessible healthcare experience.
 

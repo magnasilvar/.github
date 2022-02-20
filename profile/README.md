@@ -21,3 +21,10 @@
 We are Alan. We help all people have a personalised and accessible healthcare experience.
 
 If you are interested in what we do as engineers or data scientists, check out our [blog](https://medium.com/alan) and [twitter](https://twitter.com/alanengineering).
+
+---
+
+### Latest posts 📖
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->

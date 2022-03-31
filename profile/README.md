@@ -27,9 +27,9 @@ If you are interested in what we do as engineers or data scientists, check out o
 ### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [Scaling yourself in a hypergrowth company](https://medium.com/alan/scaling-yourself-in-a-hypergrowth-company-dfca20341682?source=rss----b2cb698c4e73---4)
 * [Fighting Impostor Syndrome](https://medium.com/alan/fighting-impostor-syndrome-392670406bbf?source=rss----b2cb698c4e73---4)
 * [Replacing the old with the new: Tale as old as time](https://medium.com/alan/replacing-the-old-with-the-new-tale-as-old-as-time-a3fcbd7fafce?source=rss----b2cb698c4e73---4)
 * [What we learned from a large refactoring](https://medium.com/alan/what-we-learned-from-a-large-refactoring-85291cb4457c?source=rss----b2cb698c4e73---4)
 * [Switching to a new tech stack](https://medium.com/alan/switching-to-a-new-tech-stack-170f1d9debaa?source=rss----b2cb698c4e73---4)
-* [How we do hackathons at Alan](https://medium.com/alan/how-we-do-hackathons-at-alan-b768eca01dda?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->

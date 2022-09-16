@@ -27,9 +27,9 @@ If you are interested in what we do as engineers or data scientists, check out o
 ### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [Plugin development: Leveraging IDE Python type inference with type hints](https://medium.com/alan/plugin-development-leveraging-ide-python-type-inference-with-type-hints-7426b3d5ee49?source=rss----b2cb698c4e73---4)
 * [Alan Design: Behind the screens](https://medium.com/alan/alan-design-behind-the-screens-9263628dcbb1?source=rss----b2cb698c4e73---4)
 * [ 5 things you should know about @dataclass](https://medium.com/alan/5-things-you-should-know-about-dataclass-8c143b75596?source=rss----b2cb698c4e73---4)
 * [Python’s descriptors](https://medium.com/alan/pythons-descriptors-b7562298f386?source=rss----b2cb698c4e73---4)
 * [Making a difference in order to save your mental health](https://medium.com/alan/making-a-difference-in-order-to-save-your-mental-health-75123b60e560?source=rss----b2cb698c4e73---4)
-* [Alan as a Service — The technical foundations](https://medium.com/alan/alan-as-a-service-the-technical-foundations-7f285bf8ddf0?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
